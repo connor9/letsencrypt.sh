@@ -5,7 +5,7 @@ import time
 
 from digitalocean import ClientV2
 
-do_key = "0661fbe5daf4d755fb3063512068dba5cd5082da3c928958337d9858fa15d856"
+do_key = ""
 
 command = sys.argv[1]
 domain = sys.argv[2]
